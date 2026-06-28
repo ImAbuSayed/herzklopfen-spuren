@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzklopfen-spuren/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Herzklopfen spüren](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzklopfen-spuren/) |
+| **Get License** | [Get a Licensing Quote for Herzklopfen spüren](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzklopfen-spuren/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Spür' das Herzklopfen, Babe, wenn du langsam den Raum betrittst
+> Dein Blick trifft meinen, weil du schon tief in meiner Seele sitzt
+> Late Night Vibes, wir cruisen weit durch die City-Lights
+> Keiner hält uns mehr auf, wir erreichen jetzt neue Heights
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
