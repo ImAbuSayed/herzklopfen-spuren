@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Herzklopfen spüren
+
+This log tracks the cryptographic history and versioning for the song **Herzklopfen spüren** (herzklopfen-spuren).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:46:19.486369 | `v1` | `75c2dbc2974f41a6b9d659a1738dacb03ee096cc7a82ae5959875543411a31ad` | `8fb26b16173dbf46fd868578c2b4d904cde1de47cfe319fb998f17371e611f66` | `2026-06-28_herzklopfen-spuren-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzklopfen-spuren/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Herzklopfen spüren](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzklopfen-spuren/) |
+| **Get License** | [Obtain a Music License for Herzklopfen spüren](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzklopfen-spuren/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `75c2dbc2974f41a6b9d659a1738dacb03ee096cc7a82ae5959875543411a31ad` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
